@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  height:200px;
+  width:400px;
+  background-color: bisque;
+  border:2px solid grey;
+  margin:20% auto;
+  display:grid;
+  place-content: center;
+  border:none;
+  box-shadow: rgba(0,0,0,0.1) 0px 4px 12px;
+  border-radius:20px;
+  -webkit-border-radius:20px;
+  -moz-border-radius:20px;
+  -ms-border-radius:20px;
+  -o-border-radius:20px;
+  color:#fefefe;
+  font-size:3rem;
+  font-weight: 700;
+}
+
